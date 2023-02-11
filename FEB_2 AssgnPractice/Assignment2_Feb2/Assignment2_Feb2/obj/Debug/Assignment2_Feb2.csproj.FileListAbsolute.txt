@@ -1,0 +1,8 @@
+C:\Users\XC668EV\source\repos\Assignment2_Feb2\Assignment2_Feb2\bin\Debug\Assignment2_Feb2.exe.config
+C:\Users\XC668EV\source\repos\Assignment2_Feb2\Assignment2_Feb2\bin\Debug\Assignment2_Feb2.exe
+C:\Users\XC668EV\source\repos\Assignment2_Feb2\Assignment2_Feb2\bin\Debug\Assignment2_Feb2.pdb
+C:\Users\XC668EV\source\repos\Assignment2_Feb2\Assignment2_Feb2\obj\Debug\Assignment2_Feb2.csproj.AssemblyReference.cache
+C:\Users\XC668EV\source\repos\Assignment2_Feb2\Assignment2_Feb2\obj\Debug\Assignment2_Feb2.csproj.SuggestedBindingRedirects.cache
+C:\Users\XC668EV\source\repos\Assignment2_Feb2\Assignment2_Feb2\obj\Debug\Assignment2_Feb2.csproj.CoreCompileInputs.cache
+C:\Users\XC668EV\source\repos\Assignment2_Feb2\Assignment2_Feb2\obj\Debug\Assignment2_Feb2.exe
+C:\Users\XC668EV\source\repos\Assignment2_Feb2\Assignment2_Feb2\obj\Debug\Assignment2_Feb2.pdb
